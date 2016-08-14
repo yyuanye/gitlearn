@@ -46,3 +46,5 @@ def lazy_sum(*args):
             ax=ax+i
         return ax
     return sum
+
+print('Hello!')
